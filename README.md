@@ -37,7 +37,12 @@ Date|Topic| |
 1/26/2024 | | Deadline for final submission |
 
 
+
 ### Project
 
-more info coming soon
+See the [project description](project/NLP_IE_2023WS_Exercise.pdf) for a detailed
+description of the project exercise. See also the [template
+repository](https://github.com/tuw-nlp-ie/project-2022WS) that you will be using on
+GitHub Classrooms. See TUWEL for the group registration tool and the topic selection
+form. Groups will get their invite links for GitHub Classrooms once they are registered.
 
