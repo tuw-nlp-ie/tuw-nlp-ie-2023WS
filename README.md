@@ -20,7 +20,7 @@ Fridays, 13.15 - 14.45, Room EI 11
 
 Date|Topic| |
 ----|-----|--|
-10/6/2023 |  Introduction | Project introduced |
+10/6/2023 |  [Introduction](lectures/00_Introduction) | Project introduced |
 10/13/2023 | Basics of text processing | Project milestone 1 introduced |
 10/20/2023 | Basics of text classification | Project milestone 2 introduced |
 10/27/2023 | Deep learning for NLP I. | |
