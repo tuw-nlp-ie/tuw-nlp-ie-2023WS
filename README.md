@@ -12,6 +12,7 @@ Fridays, 13.15 - 14.45, Room EI 11
 - [Varvara Arzt](https://tiss.tuwien.ac.at/person/314093)
 - [Allan Hanbury](https://tiss.tuwien.ac.at/person/48222.html)
 - [Adam Kovacs](https://tiss.tuwien.ac.at/person/341881.html)
+- [Pia Pachinger](https://tiss.tuwien.ac.at/person/321891)
 - [Florina Piroi](https://tiss.tuwien.ac.at/person/239780.html)
 - [Gabor Recski](https://tiss.tuwien.ac.at/person/336863.html)
 
