@@ -26,7 +26,7 @@ Date|Topic| |
 10/20/2023 | [Basics of text classification](lectures/02_Text_classification) | Project milestone 2 introduced |
 10/27/2023 | [Deep learning for NLP I.](lectures/03_Deep_learning_basics) | |
 11/3/2023  | [Deep learning for NLP II.](lectures/04_Deep_learning_LMs_RNNs) | Deadline for project milestone 1|
-11/10/2023 | Deep learning - practical lesson | |
+11/10/2023 | [Deep learning - practical lesson](lectures/05_Deep_learning_practical_lesson) | |
 11/17/2023 | Syntax: constituency and dependency | |
 11/24/2023 | Semantics: overview | |
 12/01/2023 | Information Extraction | Deadline for project milestone 2|
