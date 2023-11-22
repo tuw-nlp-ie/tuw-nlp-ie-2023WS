@@ -28,7 +28,7 @@ Date|Topic| |
 11/3/2023  | [Deep learning for NLP II.](lectures/04_Deep_learning_LMs_RNNs) | Deadline for project milestone 1|
 11/10/2023 | [Deep learning - practical lesson](lectures/05_Deep_learning_practical_lesson) | |
 11/17/2023 | [Syntax: constituency and dependency](lectures/06_Syntax) | |
-11/24/2023 | Semantics: overview | |
+11/24/2023 | [Semantics: overview](lectures/07_Semantics) | |
 12/01/2023 | Information Extraction | Deadline for project milestone 2|
 12/09/2023 | Summarization | |
 12/15/2023 | Project review meetings (9.00 - 13:00) | |
