@@ -32,7 +32,7 @@ Date|Topic| |
 12/01/2023 | [Information Extraction](lectures/08_Information_Extraction) | Deadline for project milestone 2|
 12/08/2023 | Public holiday, no lecture | |
 12/15/2023 | Project review meetings (9.00 - 13:00) | |
-12/15/2023 | Summarization and keyword extraction| |
+12/15/2023 | [Text Summarization](lectures/09_Text_Summarization)| |
 1/12/2024 | Annotation basics and challenges | |
 1/19/2024 | Project presentations (13.00 - 17.00) | Deadline for project presentations |
 1/26/2024 | | Deadline for final submission |
